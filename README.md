@@ -3,6 +3,6 @@
 
 
 ### Завдання на "п'ять"
-![](photo (1).png)
-![](photo (1).png)
-![](photo (1).png)
+![](photo1.png)
+![](photo2.png)
+![](photo3.png)
